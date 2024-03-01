@@ -35,7 +35,7 @@ in the future.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-The source code, data, and tableau viz can be found at my [GitHub](https://github.com/francisphamsd/CrimeDataExploration.git)
+The source code, data, and tableau viz can be found on my [GitHub](https://github.com/francisphamsd/CrimeDataExploration.git)
 
 ### Prerequisites
 
@@ -45,7 +45,7 @@ The source code, data, and tableau viz can be found at my [GitHub](https://githu
 ### Installing
 
 - You can view the crude graph within the Jupyter Notebook file
-- You can also view the Tableau graph by visiting my Tableau profile, or checking out the Tableau file in this repo
+- You can also view the Tableau graph by visiting my Tableau profile; or checking out the Tableau file in this repo
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
