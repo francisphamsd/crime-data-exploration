@@ -12,14 +12,11 @@
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
-This project analyzes the crime rate in Boston, Massachusett. This is an exploration analysis on the status of crime in multiple aspects such as day, hour, type of crimes, etc... The goal of this project is to identify the solution to an alarming rampage of crime rate in Boston, which might suggest policy changes around the world.
+This project analyzes the crime rate in Boston, Massachusett. This is an exploration analysis of the status of crime in multiple aspects such as day, hour, type of crimes, etc... The goal of this project is to identify the solution to an alarming rampage of crime rate in Boston, which might suggest policy changes around the world.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 
-This section is used to describe potential solutions.
-
-Once the ideal, reality, and consequences sections have been
-completed, and understood, it becomes easier to provide a solution for solving the problem.
+Through this analysis, we can propose a chart solution via tableau which can visualize the crime rate of Boston
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 
@@ -30,8 +27,7 @@ completed, and understood, it becomes easier to provide a solution for solving t
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve
-in the future.
+We will visualize this csv data file in Tableau
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
