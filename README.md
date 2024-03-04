@@ -16,7 +16,7 @@ This project analyzes the crime rate in Boston, Massachusett. This is an explora
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 
-Through this analysis, we can propose a chart solution via tableau which can visualize the crime rate of Boston
+Through this analysis, we can propose a chart solution via tableau which can visualize the crime rate in Boston
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 
@@ -27,7 +27,7 @@ Through this analysis, we can propose a chart solution via tableau which can vis
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
-We will visualize this csv data file in Tableau
+We will visualize this CSV data file in Tableau
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
